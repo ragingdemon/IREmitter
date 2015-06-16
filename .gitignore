@@ -1,9 +1,6 @@
 # Built application files
-/app/build/generated
-/app/build/intermediates
-/app/build/tmp
-/app/build/outputs/logs
-/app/build/outputs/apk/app-debug-unaligned.apk
+!/app/build/outputs/apk/app-debug.apk
+app/*
 
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
